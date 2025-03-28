@@ -6,8 +6,8 @@
 
 Welcome to the **Gaming Store Website** project! 🚀 This is a modern, responsive website designed to showcase gaming products 🎮, accessories 🖱️, and services 🎧, built using core web development technologies: **HTML**, **CSS**, and **JavaScript**.
 
-<img src="https://ibb.co/ZR5rbwCM"/>
-<img src="https://ibb.co/N24Pd7R2"/>
+<img src="img/Screenshot 2025-03-28 221838.png"/>
+<img src="img/Screenshot 2025-03-28 221910.png"/>
 
 ---
 
