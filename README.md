@@ -61,8 +61,7 @@ This website serves as a frontend development project to:
 
 Feel free to clone, fork, or star ⭐ this repository if you find it helpful. You can also reach out to me for any collaboration opportunities or questions:
 
-- **LinkedIn**: [Sushant Kate](https://www.linkedin.com/in/sushant-kate)
-- **Discord**: toy.breaker
+- **LinkedIn**: [Ahmed Tarek](www.linkedin.com/in/tarto2a)
 
 ---
 
